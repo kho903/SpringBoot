@@ -1,4 +1,4 @@
-package com.jikim.javaoop.logic;
+package com.jikim.springpractice.logic;
 
 import java.util.List;
 

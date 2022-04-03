@@ -1,6 +1,4 @@
-package com.jikim.javaoop;
-
-import static org.junit.jupiter.api.Assertions.*;
+package com.jikim.springpractice;
 
 import org.junit.jupiter.api.Test;
 

@@ -1,4 +1,4 @@
-package com.jikim.javaoop.service;
+package com.jikim.springpractice.service;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -6,7 +6,7 @@ import java.util.List;
 
 import org.junit.jupiter.api.Test;
 
-import com.jikim.javaoop.logic.JavaSort;
+import com.jikim.springpractice.logic.JavaSort;
 
 class SortServiceTest {
 
